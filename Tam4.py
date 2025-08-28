@@ -6,7 +6,7 @@ e = float(input ("pleas input you fifth number"))
 Max = 0
 Min = 0
 if a >= b and a >= c and a >= d and a >= e :
-Max = a
+    Max = a
 elif b >= a and b >=c and b>=d and b>=e :
     Max=b
 elif c>=a and c>=b and c>=d and c>=e :
